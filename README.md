@@ -1,4 +1,4 @@
-#Huawei R&D Technical Interview Question on Big Data
+Huawei R&D Technical Interview Question on Big Data
 =========================================
 Datasets
 ---
