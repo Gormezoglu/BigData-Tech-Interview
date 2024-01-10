@@ -1,0 +1,9 @@
+# .gitignore
+
+# Virtual environment
+venv/
+
+# Other files or directories to ignore (add as needed)
+__pycache__/
+*.pyc
+*.pyo
