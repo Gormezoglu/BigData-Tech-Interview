@@ -11,10 +11,22 @@
 
 ## Requirements
 
+create a virtual environment
+
+```bash
+python3 -m venv venv
+```
+
 Activate virtual environment
 
 ```bash
 source venv/bin/activate
+```
+
+deactivate virtual environment
+
+```bash
+deactivate
 ```
 
 Install requirements
