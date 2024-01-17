@@ -3,6 +3,7 @@
 # Virtual environment
 venv/
 aclImdb/
+spark-3.1.1-bin-hadoop3.2/
 
 # Other files or directories to ignore (add as needed)
 __pycache__/
