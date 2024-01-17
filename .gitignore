@@ -2,8 +2,12 @@
 
 # Virtual environment
 venv/
+aclImdb/
 
 # Other files or directories to ignore (add as needed)
 __pycache__/
 *.pyc
 *.pyo
+*.tar.gz
+*.tgz
+
