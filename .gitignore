@@ -10,5 +10,5 @@ __pycache__/
 *.pyc
 *.pyo
 *.tar.gz
-*.tgz
+*.tgz*
 
