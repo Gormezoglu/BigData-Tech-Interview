@@ -34,3 +34,17 @@ Install requirements
 ```bash
 pip install -r requirements.txt
 ```
+
+make sure to give execution permission to the script
+
+```bash
+sudo chmod +x install_spark.py
+```
+
+run the install_spark.py script first 
+
+```bash
+sudo ./install_spark.py
+```
+
+
