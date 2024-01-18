@@ -23,16 +23,16 @@ Activate virtual environment
 source venv/bin/activate
 ```
 
-deactivate virtual environment
-
-```bash
-deactivate
-```
-
 Install requirements
 
 ```bash
 pip install -r requirements.txt
+```
+
+deactivate virtual environment
+
+```bash
+deactivate
 ```
 
 make sure to give execution permission to the script
@@ -46,5 +46,7 @@ run the install_spark.py script first
 ```bash
 sudo ./install_spark.py
 ```
+
+Then run the juptyer notebook for the task
 
 
