@@ -6,6 +6,9 @@ def run_command(command):
     subprocess.run(command, shell=True, check=True)
 
 def install_spark():
+    # Update package lists
+    run_command("sudo apt-get update -qq")
+
     # Install OpenJDK
     run_command("sudo apt-get install openjdk-8-jdk-headless -qq > /dev/null")
 
