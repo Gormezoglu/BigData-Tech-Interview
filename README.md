@@ -1,5 +1,9 @@
 # BigData Technical Interview Question
 
+## Overview
+
+This repository contains the solution for the BigData Technical Interview Question.
+
 ## Datasets
 
 - Source Datasets must be under Datasets folder
@@ -41,12 +45,10 @@ make sure to give execution permission to the script
 sudo chmod +x install_spark.py
 ```
 
-run the install_spark.py script first 
+run the install_spark.py script first
 
 ```bash
 sudo ./install_spark.py
 ```
 
 Then run the juptyer notebook for the task
-
-
