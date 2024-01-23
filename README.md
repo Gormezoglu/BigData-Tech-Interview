@@ -4,6 +4,12 @@
 
 This repository contains the solution for the BigData Technical Interview Question.
 
+Using Spark via PySpark, the following tasks are implemented:
+
+- Task 1: Exploratory Data Analysis
+- Task 2: Recommender System Design
+- Task 3: Text Analysis as NLP Task
+
 ## Datasets
 
 - Source Datasets must be under Datasets folder
